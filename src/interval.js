@@ -63,7 +63,7 @@ class Interval {
      * @returns {Interval[]}
      */
     union(interval) {
-        
+
     };
 
     /**
