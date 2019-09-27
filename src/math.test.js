@@ -107,6 +107,7 @@ describe('fizzBuzz', function () {
     }
   );
 });
+/*
 describe('pairs', function () {
     test.each([
       [[3,3], 1],
@@ -119,3 +120,4 @@ describe('pairs', function () {
       }
     );
   });
+*/
